@@ -1,1 +1,1 @@
-# openPHMM
+# UniversalPHMM
